@@ -1,7 +1,4 @@
 <h1 align="center">Hola 👋, soy Dani</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalessandro5&label=Profile%20views&color=0e75b6&style=flat" alt="dalessandro5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalessandro5" alt="dalessandro5" /></a> </p>
 
 - 🔭 Actualmente me estoy iniciando en: **el mundo de Linux, configuración de servidores, programación, etc.**
 
