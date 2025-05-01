@@ -2,13 +2,13 @@
 
 - 🔭 Actualmente me estoy iniciando en: **el mundo de Linux, configuración de servidores, programación, etc.**
 
-- 🌱 Estoy aprendiendo: **Linux, Programación en general y ciberseguridad.**
+- 🌱 Estoy aprendiendo: **Linux, Configuración de redes y desarrollo web.**
 
 - 👨‍💻 Mis proyectos están disponibles en: [https://github.com/dalessandro5/](https://github.com/dalessandro5/)
 
 - 📫 Cómo contactar conmigo: **dalessandrosolimando@gmail.com**
 
-- ⚡ Hecho sobre mí: **Me gusta jugar al GD cuando tengo tiempo libre.**
+- ⚡ Hecho sobre mí: **Me gusta ir al gym como desahogo personal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
